@@ -32,6 +32,7 @@ var packageRenames = {
   "ryannhg/elm-date-format": "ryannhg/date-format",
   "rtfeldman/hex": "rtfeldman/elm-hex",
   "elm-lang/mouse": "elm/browser",
+  "elm-lang/window": "elm/browser",
   "avh4/elm-transducers": "avh4-experimental/elm-transducers",
   "dillonkearns/graphqelm": "dillonkearns/elm-graphql"
 };
